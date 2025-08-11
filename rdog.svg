@@ -15,7 +15,7 @@
       .small-graph {
         font-family: 'Montserrat', sans-serif;
         font-weight: 675;
-        font-size: 27px;
+        font-size: 30px;
         fill: #E10098;
         letter-spacing: 0;
         text-transform: none;
