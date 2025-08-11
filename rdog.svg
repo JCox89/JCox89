@@ -1,0 +1,62 @@
+<svg width="650" height="250" viewBox="0 0 650 250" xmlns="http://www.w3.org/2000/svg" style="background:#fff;">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;675;900');
+
+      .small-regular {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        font-size: 30px;
+        fill: #000;
+        letter-spacing: 0;
+        text-transform: none;
+      }
+
+      .small-graph {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 675;
+        font-size: 27px;
+        fill: #E10098;
+        letter-spacing: 0;
+        text-transform: none;
+      }
+
+      .large-black {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+        font-size: 70px;
+        fill: #000;
+        letter-spacing: -0.02em; /* slight tightening */
+        text-transform: none;
+      }
+
+      .medium-regular {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 40px;
+        fill: #000;
+        letter-spacing: 0;
+        text-transform: none;
+      }
+
+      .diamond {
+        fill: #000;
+        stroke: none;
+      }
+    </style>
+  </defs>
+
+  <!-- The -->
+  <text class="small-graph" x="3" y="90" transform="rotate(270,35,70)">the</text>
+  
+  <!-- Real Developers -->
+  <text class="large-black" x="55" y="100">Real</text>
+  <text class="large-black" x="30" y="160">Developers</text>
+
+  <!-- of Graph -->
+  <text class="medium-regular" x="30" y="200" style="text-transform: lowercase;">of Graph</text>
+
+
+  <!-- GraphQL Icon to the right -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" x="420" y="55" height="80" width="80" />
+</svg>
