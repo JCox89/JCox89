@@ -4,7 +4,7 @@
 # 🚀 From Tinkering to Middleware Developer — My Journey
 
 ## 📜 About Me
-I started my tech journey by automating repetitive work with **VBA scripts** in Excel and Internet Explorer.  That curiosity led me to become a **database developer**, building **ETL** processes and creating applications in **Oracle Application Express (APEX)**.  Later, I transitioned into a **RPA Development Lead**, where I integrated **Automation Anywhere** with an **Oracle datastore** (and **Oracle APEX apps**) to make automations more robust and give **real-time insights** to end users.  
+I started my tech journey by automating repetitive work with **VBA scripts** in Excel and Internet Explorer.  That curiosity led me to become a **database developer**, building **ETL** processes and creating applications in **Oracle Application Express (APEX)**.  Later, I transitioned into a **RPA Development Lead**, where I integrated **Automation Anywhere** with **Oracle Database** and **Oracle APEX** to make automations more robust and give **real-time insights** to end users.  My team eventually outgrew the **Automation Anywhere** and upgraded to **Robocorp** a pure **Python** platform.
 
 Today, I work as a **middleware developer**, building and supporting:
 - **GraphQL APIs**
